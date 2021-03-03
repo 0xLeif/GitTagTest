@@ -4,7 +4,7 @@ Repo for messing around with git tags. [🏷](https://git-scm.com/book/en/v2/Git
 
 ## GitHub Issues
 
-### 1) Release page Next button doesn't work
+### Release page Next button doesn't work
 
 The next button takes you to tags/ releases after the last tag on the page.
 
