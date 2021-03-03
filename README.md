@@ -6,7 +6,7 @@ Repo for messing around with git tags. [🏷](https://git-scm.com/book/en/v2/Git
 
 ### 1) Release page Next button doesn't work
 
-The next button takes you to tags/ release after the last tag on the page.
+The next button takes you to tags/ releases after the last tag on the page.
 
 #### Steps to reproduce
 - Go to the Releases page [🔗](https://github.com/0xLeif/GitTagTest/releases)
